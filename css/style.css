@@ -2111,3 +2111,7 @@ h5,
 iframe{
   margin: 2rem 0rem 7rem 0rem;
 }
+
+#three{
+  padding-bottom: 0;
+}
